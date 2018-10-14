@@ -8,6 +8,10 @@ public class FirstClass {
         System.out.println("hello word!");
 
 
+        System.out.println("我同桌说他很帅!");
+        System.out.println("我同桌说他很帅!");
+        System.out.println("我同桌说他很帅!");
+        System.out.println("我同桌说他很帅!");
 
 
 
