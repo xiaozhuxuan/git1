@@ -13,7 +13,10 @@ public class FirstClass {
         System.out.println("我同桌说他很帅!");
         System.out.println("我同桌说他很帅!");
 
-
+        System.out.println("怎么那么自恋?");
+        System.out.println("怎么那么自恋?");
+        System.out.println("怎么那么自恋?");
+        System.out.println("怎么那么自恋?");
 
 
     }
